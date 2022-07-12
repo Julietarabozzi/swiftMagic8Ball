@@ -1,2 +1,2 @@
 # swiftMagic8Ball
-Proyecto de Angela Yu de bola mágica
+Proyecto de Angela Yu modificado. Bola mágica
